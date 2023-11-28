@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base{
+li{
+@apply text-white pr-24 items-center;
+}
+h1{
+@apply text-white}
+}
